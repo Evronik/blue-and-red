@@ -1,5 +1,5 @@
 # Шаблон интернет магазина
-## _Скоптирован мной из интернета и переделан под запрос заказчика_  
+## _Скопирован мной из интернета и переделан под запрос заказчика_  
 
 [![N|Solid](https://evronik.github.io/blue-and-red/blue-and-red.jpg)](https://evronik.github.io/blue-and-red/)
 
